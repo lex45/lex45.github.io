@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Your Name</title>
- <link href="http://himsel.me/atom.xml" rel="self"/>
- <link href="http://himsel.me"/>
- <updated>2018-03-12T15:10:50+02:00</updated>
- <id>http://himsel.me</id>
+ <title>Corporations base</title>
+ <link href="https://lex45.github.io//atom.xml" rel="self"/>
+ <link href="https://lex45.github.io/"/>
+ <updated>2018-03-12T18:50:21+02:00</updated>
+ <id>https://lex45.github.io/</id>
  <author>
-   <name>Your Name</name>
-   <email>your@email.com</email>
+   <name>Jason</name>
+   <email>cccorp@copl.com</email>
  </author>
 
  
  <entry>
    <title>Markdown flavour</title>
-   <link href="http://himsel.me#2016-11-06-00"/>
+   <link href="https://lex45.github.io/#2016-11-06-00"/>
    <updated>2016-11-06T00:00:00+02:00</updated>
    <id>/test</id>
    <content type="html">&lt;p&gt;I have some text.&lt;/p&gt;
@@ -47,7 +47,7 @@
  
  <entry>
    <title>Welcome and Getting Started</title>
-   <link href="http://himsel.me#2016-09-19-23"/>
+   <link href="https://lex45.github.io/#2016-09-19-23"/>
    <updated>2016-09-19T23:10:00+03:00</updated>
    <id>/welcome</id>
    <content type="html">&lt;p&gt;Welcome to this jekyll theme!&lt;br /&gt;
