@@ -1,38 +1,20 @@
-# onepage
-uncomplicated single-page jekyll blog theme
+# Jekyll Materialize Starter Template v0.1
 
-# [DEMO](http://himsel.me)
+*A Site Starter Materialize Templates.
 
-# use it! - 4 easy steps
+The theme is a fork of the [minima][1]
 
-#### 1. fork this repository and rename it
+![minima theme preview](/screenshot.png)
 
-#### 2. create a branch called `gh-pages`
 
-#### 3. edit the `_config.yml` file  
+# License
 
-3.1. paste your `title` and `description`  
+The theme is available as open source under the terms of the [MIT License][2].
 
-3.2. give your site's url with protocol (http or https) to the variable `url`  
+[Materialize][3] a  modern responsive front-end framework based on Material Design
 
-3.3. the part after your page domain, for example you have `http://himsel.me/onepage`, `baseurl: "/onepage"` is the right value
+Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
 
-3.4. paste **github** and **twitter** username to the following variables. Important: **without** @ prefix  
-
-3.5. `accent` is the color code for the blog column
-
-3.6. edit address and name, email too.
-
-3.7. you are using google analytics? paste your ID to `g_analytics: ""`
-
-3.8. edit html content language here: `isolang: en`, default is english
-
-#### 4. start writing posts
-
-4.1 posts are in the directory `_posts`  
-
-4.2 see here an introduction: http://jekyllrb.com/docs/posts/  
-
-# thank you
-share this project, give a star, contributions welcome  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[1]: https://github.com/jekyll/minima
+[2]: https://opensource.org/licenses/MIT
+[3]: http://materializecss.com/
