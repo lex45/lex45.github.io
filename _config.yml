@@ -9,3 +9,7 @@ github_username:  macrod68
 
 sass:
     style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
