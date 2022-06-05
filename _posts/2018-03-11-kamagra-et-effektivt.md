@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Kamagra et effektivt og relativt overkommeligt middel til erektil lidelse.
+date: 2018-03-11 00:00:00 Z
 permalink: page-3
+layout: post
 ---
- 
 
 karakteristika 
 Kamagra tabletter fremstilles på basis af den aktive komponent af sildenafil som tjener som den vigtigste aktive ingrediens i populære Viagra. I en tablet af medicin er koncentrationen af ​​sildenafil 25, 50 eller 100 mg. Andre inaktive ingredienser er også inkluderet. Kamagra fremstilles i form af diamantformede tabletter, grønlig-blå farve, hvoraf 4 stykker er indeholdt i en blister. Producent Indisk farmaceutisk virksomhed Ajanta Pharma Ltd. Du kan købe Kamagra på hjemmesiden for vores specialiserede generiske butik. 
